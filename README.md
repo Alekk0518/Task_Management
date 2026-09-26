@@ -17,13 +17,13 @@ A simple Laravel website to manage daily tasks, track priorities, and stay organ
   Additional Features"
 
   -Tasks Trash bin
-    Allows users to recover accidentally deleted items or permanently purge them when necessary.    
+     Allows users to recover accidentally deleted items or permanently purge them when necessary.    
    ![Trash Bin Feature](https://github.com/user-attachments/assets/61ddab0a-d0e6-40db-a29b-56d36a5dd5bc)
 
   -Search bar
-   Enables real-time, AJAX-powered keyword searching to quickly locate specific tasks without reloading the page.
+    Enables real-time, AJAX-powered keyword searching to quickly locate specific tasks without reloading the page.
    ![Search Bar Feature](https://github.com/user-attachments/assets/ed2badd4-1fc6-4058-b2eb-9a23cd6980c8)
 
   -Filter
-   Provides options to sort and filter tasks by date, status, or priority to stay focused on what matters most.  
+    Provides options to sort and filter tasks by date, status, or priority to stay focused on what matters most.  
    ![Filter Feature](https://github.com/user-attachments/assets/e0bd19ba-929f-4a7a-90aa-38b30085017d)
