@@ -1,4 +1,4 @@
-# Task_Management
+#KuTask Management
 
 A simple Laravel website to manage daily tasks, track priorities, and stay organized.
 
